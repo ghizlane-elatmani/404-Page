@@ -38,11 +38,9 @@
 
 ![My Image](img/page-error.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 This 404 page can be found here: "https://404-error-page-ge.netlify.app/".
 Thanks to that challenge, I learn to work efficiently in order to succeed.
-And I hope to make more beautiful website and become an export in front-end developmemt :)
+And I hope to make more beautifuls websites and become an expert in front-end developmemt :)
 
 ### Built With
 
