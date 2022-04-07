@@ -36,7 +36,7 @@
 
 ## Overview
 
-![alt text](https://github.com/[ghizlane-elatmani]/[404-Page]/blob/[branch]/page-error.png?raw=true)
+![My Image](img/page-error.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
